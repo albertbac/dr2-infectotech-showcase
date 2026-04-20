@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="Repository map for Infection-focused Healthtech Product Layer">
+  <rect width="1200" height="900" fill="#f8fafc"/>
+  <text x="60" y="80" fill="#0f172a" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">Infection-focused Healthtech Product Layer repository map</text>
+  <rect x="60" y="130" width="1080" height="120" rx="18" fill="#e2e8f0" stroke="#94a3b8"/>
+  <text x="100" y="185" fill="#0f172a" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">Root</text>
+  <text x="100" y="225" fill="#334155" font-family="Arial, Helvetica, sans-serif" font-size="24">README | policies | app card | architecture | workflow | privacy boundary | manual TODO</text>
+  <rect x="60" y="300" width="500" height="180" rx="18" fill="#dbeafe" stroke="#60a5fa"/>
+  <text x="100" y="360" fill="#1e3a8a" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">site/</text>
+  <text x="100" y="405" fill="#1e40af" font-family="Arial, Helvetica, sans-serif" font-size="24">SITE_COPY_PTBR.md</text>
+  <text x="100" y="440" fill="#1e40af" font-family="Arial, Helvetica, sans-serif" font-size="24">copy ready for the DR2 website</text>
+  <rect x="640" y="300" width="500" height="180" rx="18" fill="#dcfce7" stroke="#4ade80"/>
+  <text x="680" y="360" fill="#166534" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">screenshots/</text>
+  <text x="680" y="405" fill="#15803d" font-family="Arial, Helvetica, sans-serif" font-size="24">SHOTLIST.md</text>
+  <text x="680" y="440" fill="#15803d" font-family="Arial, Helvetica, sans-serif" font-size="24">manual capture list only</text>
+  <rect x="60" y="530" width="500" height="220" rx="18" fill="#fae8ff" stroke="#d946ef"/>
+  <text x="100" y="590" fill="#86198f" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">synthetic-data/</text>
+  <text x="100" y="635" fill="#a21caf" font-family="Arial, Helvetica, sans-serif" font-size="24">README.md</text>
+  <text x="100" y="670" fill="#a21caf" font-family="Arial, Helvetica, sans-serif" font-size="24">SYNTHETIC_DATA_TODO.md</text>
+  <text x="100" y="705" fill="#a21caf" font-family="Arial, Helvetica, sans-serif" font-size="24">No public sample data by default</text>
+  <rect x="640" y="530" width="500" height="220" rx="18" fill="#fef3c7" stroke="#f59e0b"/>
+  <text x="680" y="590" fill="#92400e" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">reports/ and docs/</text>
+  <text x="680" y="635" fill="#b45309" font-family="Arial, Helvetica, sans-serif" font-size="24">PRIVACY_AUDIT.md</text>
+  <text x="680" y="670" fill="#b45309" font-family="Arial, Helvetica, sans-serif" font-size="24">PUBLISH_CHECKLIST.md</text>
+  <text x="680" y="705" fill="#b45309" font-family="Arial, Helvetica, sans-serif" font-size="24">og-social-card.svg | repo-map.svg</text>
+</svg>

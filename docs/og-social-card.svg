@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Infection-focused Healthtech Product Layer">
+  <rect width="1200" height="630" fill="#0f172a"/>
+  <rect x="48" y="48" width="1104" height="534" rx="24" fill="#111827" stroke="#334155" stroke-width="2"/>
+  <text x="84" y="138" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">DR2 public-safe showcase</text>
+  <text x="84" y="252" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700">Infection-focused Healthtech Product Layer</text>
+  <text x="84" y="332" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="28">A conservative public-safe case for an infection-focused healthtech product layer, published with LOW CONFIDENCE due conflicting safe signals.</text>
+  <rect x="84" y="396" width="340" height="56" rx="18" fill="#1d4ed8"/>
+  <text x="112" y="432" fill="#eff6ff" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700">CORE HEALTHCARE / CLINICAL AI</text>
+  <text x="84" y="520" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="26">medicine as asymmetry | data as method | web apps as delivery</text>
+</svg>
