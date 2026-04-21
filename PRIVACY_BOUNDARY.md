@@ -3,7 +3,7 @@
 ## What was excluded
 - Production source code
 - Real user, patient, client, or institution data
-- Raw operational payloads
+- Raw operational message bodies
 - Private infrastructure references
 - Internal logic that would weaken the product if exposed
 - Real screenshots and live records

@@ -5,7 +5,7 @@
 - [x] no real screenshots
 - [x] no internal URLs
 - [x] no private access material
-- [x] no raw payload material
+- [x] no raw sensitive message material
 - [x] no real names
 - [x] description is coherent with the public-safe framing
 - [x] README is complete

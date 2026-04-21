@@ -12,7 +12,7 @@ Nenhum bloqueio material encontrado na auditoria final.
 - Real screenshots
 - Private infrastructure detail
 - Internal operating logic
-- Raw payload material
+- Raw sensitive message material
 
 ## Final result
 PODE PUBLICAR
