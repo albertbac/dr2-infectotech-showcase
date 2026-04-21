@@ -27,3 +27,9 @@
 - Validate that the public title is still the best choice
 - Confirm that no private terminology remains in the repo
 - Review the final screenshots before any external reuse
+
+## Second-pass guardrail
+- Do not replace TODOs with real screenshots, real records, or unvalidated metrics.
+- Use only synthetic screenshots after a separate public-safety review.
+- Keep claims conservative until evidence can be safely published.
+

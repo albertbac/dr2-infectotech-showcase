@@ -4,7 +4,7 @@
 InfectoTech
 
 ## 2. One-line summary
-A conservative public-safe case for an infection-focused healthtech product layer, published with LOW CONFIDENCE due conflicting safe signals.
+A conservative public-safe case for an infection-focused healthtech product layer with a deliberately narrow public scope.
 
 ## 3. Primary user
 Clinical or product operator
