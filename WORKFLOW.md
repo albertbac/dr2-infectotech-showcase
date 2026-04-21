@@ -9,15 +9,15 @@
 
 ```mermaid
     flowchart TD
-        S1["Open governed workflow"]
-    S2["Submit structured input"]
-    S3["Receive constrained output"]
-    S4["Review safely"]
-    S5["Decide whether public framing needs refinement"]
-    S1 --> S2
-    S2 --> S3
-    S3 --> S4
-    S4 --> S5
+        W1["Open governed workflow"]
+    W2["Submit structured input"]
+    W3["Receive constrained output"]
+    W4["Review safely"]
+    W5["Decide whether public framing needs refinement"]
+    W1 --> W2
+    W2 --> W3
+    W3 --> W4
+    W4 --> W5
 ```
 
 ## Publication boundary
